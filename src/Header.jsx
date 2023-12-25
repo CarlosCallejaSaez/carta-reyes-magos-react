@@ -12,7 +12,7 @@ const Header = () => {
         <a href="https://github.com/CarlosCallejaSaez" target="_blank" rel="noopener noreferrer">
           <FiGithub size={30} />
         </a>
-        <a href="www.linkedin.com/in/carlos-calleja-saez" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/carlos-calleja-saez/" target="_blank" rel="noopener noreferrer">
           <FiLinkedin size={30} />
         </a>
       </nav>
