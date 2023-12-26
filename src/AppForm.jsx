@@ -77,7 +77,7 @@ const AppForm = () => {
       {step === 3 && (
         <div className="formStep successStep">
           <p>Carta enviada con éxito a sus majestades de Oriente</p>
-          <img src="../public/gift-8996_256.gif" alt=" GIF" />
+          <img src="./assets/gift-8996_256.gifs" alt=" GIF" />
         </div>
       )}
     </div>
