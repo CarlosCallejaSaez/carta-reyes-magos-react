@@ -76,7 +76,7 @@ const AppForm = () => {
       )}
       {step === 3 && (
         <div className="formStep successStep">
-          <p>✅✅ Carta enviada con éxito a sus majestades de Oriente ✅✅</p>
+          <p>✅ Carta enviada con éxito a sus majestades de Oriente ✅</p>
         </div>
       )}
     </div>
