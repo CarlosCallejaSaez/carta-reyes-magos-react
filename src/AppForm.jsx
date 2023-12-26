@@ -77,7 +77,7 @@ const AppForm = () => {
       {step === 3 && (
         <div className="formStep successStep">
           <p>Carta enviada con éxito a sus majestades de Oriente</p>
-          <img src="./assets/smartphone-7001038_1280.png" alt=" Sent" />
+          <img src="/public/smartphone-7001038_1280.png" alt=" Sent" />
         </div>
       )}
     </div>
